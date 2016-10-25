@@ -1,1 +1,1 @@
-### Prozorro products export ###
+### Prozorro products export [![Build Status](https://api.travis-ci.org/nmartynenko/prozorro-products.png)](https://travis-ci.org/nmartynenko/prozorro-products)
